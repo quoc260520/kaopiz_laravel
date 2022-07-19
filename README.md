@@ -7,7 +7,9 @@
 -   Laravel: v8.83.15
 -   Bootstrap :[(Bootstrap 5.0.2)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-## Cấu trúc dự án
+## Tài khoản admin
+-   email: admin@gmail.com
+-   password: 12345678
 
 -
 
